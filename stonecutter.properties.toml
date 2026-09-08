@@ -8,7 +8,7 @@ loomx.loom_remap_plugin = "fabric-loom"
 
 deps.loader = "0.18.4"
 
-library.faststats = "0.29.4"
+library.faststats = "0.30.1"
 
 ["26.2"]
 deps.minecraft.start = "26.2"
