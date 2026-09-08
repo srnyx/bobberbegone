@@ -40,7 +40,7 @@
         },
 
         "show": {
-          "label": "Eanbled",
+          "label": "Enabled",
           "description": "Whether to show the icon"
         },
 
