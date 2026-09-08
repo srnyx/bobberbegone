@@ -3,7 +3,7 @@ import xyz.srnyx.gradlegalaxy.utility.inGitHubWorkflow
 
 plugins {
     id("dev.kikugie.loom-back-compat")
-    id("xyz.srnyx.gradle-galaxy") version "56c48b7"
+    id("xyz.srnyx.gradle-galaxy") version "c99868f"
     id("me.modmuss50.mod-publish-plugin") version "04fb4ab"
 
     // Fletching Table
